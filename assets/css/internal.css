@@ -9,7 +9,6 @@
   display: flex;
   height: 100vh;
   flex-flow: row nowrap; 
-  background-color: aqua; 
 }
 
 .s-wrapper video{
@@ -29,6 +28,7 @@
   left: 0;
   top: 0;
   z-index: 1;
+  background-color: black;
 }
 
 .s-wrapper .s-main-content{
@@ -36,6 +36,7 @@
   width: 100%;
   padding-left: 130px;
   position: relative;
+  background-color: gray;
 }
 
 .s-wrapper .s-main-content__top {
